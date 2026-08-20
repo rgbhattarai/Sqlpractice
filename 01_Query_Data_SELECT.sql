@@ -1,5 +1,5 @@
 /* ==============================================================================
-   SQL SELECT Query
+   SQL SELECT Query 
 -------------------------------------------------------------------------------
    This guide covers various SELECT query techniques used for retrieving, 
    filtering, sorting, and aggregating data efficiently.
@@ -233,3 +233,4 @@ SELECT
     first_name,
     'New Customer' AS customer_type
 FROM customers;
+hello
